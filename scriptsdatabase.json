@@ -1,4 +1,4 @@
 { 
-    "286090429": {"gamename": "arsenal", "scriptname": "bitchhook", "script": "https://wednesday.wtf/files/bitchhook.lua"},
-    "185655149": {"gamename": "bloxburg", "scriptname": "alpha x", "script": "https://alpha1004.tech/scripts/AlphaX.lua"}
+    "arsenalbitchhook": {"scriptname": "BitchHook", "scriptdesc": "The best GUI for Arsenal.", "script": "https://wednesday.wtf/files/bitchhook.lua"},
+    "welcometobloxburgalphax": {"scriptname": "Alpha X", "scriptdesc": "It is a well developed hub with many games.", "script": "https://alpha1004.tech/scripts/AlphaX.lua"}
 }
