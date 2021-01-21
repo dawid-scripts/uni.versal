@@ -13,5 +13,10 @@
         "scriptname": "Garfield Hub",
         "scriptdesc": "Great hub with lots of games and features.",
         "script": "https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub"
+    },
+    "turtlespy": {
+        "scriptname": "Turtle Spy",
+        "scriptdesc": "Amazing remote spy with everything you need.",
+        "script": "https://pastebin.com/raw/BDhSQqUU"
     }
 }
