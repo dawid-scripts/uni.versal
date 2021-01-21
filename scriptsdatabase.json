@@ -1,4 +1,17 @@
-{ 
-    "arsenalbitchhook": {"scriptname": "BitchHook", "scriptdesc": "The best GUI for Arsenal.", "script": "https://wednesday.wtf/files/bitchhook.lua"},
-    "welcometobloxburgalphax": {"scriptname": "Alpha X", "scriptdesc": "It is a well developed hub with many games.", "script": "https://alpha1004.tech/scripts/AlphaX.lua"}
+{
+    "arsenalbitchhook": {
+        "scriptname": "BitchHook",
+        "scriptdesc": "The best GUI for Arsenal.",
+        "script": "https://wednesday.wtf/files/bitchhook.lua"
+    },
+    "welcometobloxburgalphax": {
+        "scriptname": "Alpha X",
+        "scriptdesc": "It is a well developed hub with many games.",
+        "script": "https://alpha1004.tech/scripts/AlphaX.lua"
+    },
+    "garfieldhubfree": {
+        "scriptname": "Garfield Hub",
+        "scriptdesc": "Great hub with lots of games and features.",
+        "script": "https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub"
+    }
 }
