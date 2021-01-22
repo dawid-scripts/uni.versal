@@ -23,5 +23,10 @@
         "scriptname": "Dex Explorer V2",
         "scriptdesc": "The best Explorer GUI for Roblox.",
         "script": "https://cdn.wearedevs.net/scripts/Dex Explorer V2.txt"
+    },
+    "pinkxlumbertycoon": {
+        "scriptname": "Pink X",
+        "scriptdesc": "A great script for LT2",
+        "script": "https://drizzy.wtf/PinkX/Script/Lt2/Pinkxdata/bootstrapper"
     }
 }
